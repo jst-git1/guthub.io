@@ -9,4 +9,4 @@ die Syntax und das Arbeiten zu lernen. Hoffe es zeigt den Weg auf.
   * Kirk 
   * Spok
 
-\* Der Weltraum unendliche Weiten\* 
+> Der Weltraum unendliche Weiten
