@@ -10,3 +10,4 @@ die Syntax und das Arbeiten zu lernen. Hoffe es zeigt den Weg auf.
   * Spok
 
 > Der Weltraum unendliche Weiten
+<img src="https://p5.focus.de/img/fotos/crop12066421/9082358610-cfreecrop_21_9-w975-h415-otx0_y108-q75-p5/gettyimages-1205916335.jpg"/>
