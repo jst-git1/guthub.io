@@ -8,3 +8,5 @@ die Syntax und das Arbeiten zu lernen. Hoffe es zeigt den Weg auf.
 * Besatzung
   * Kirk 
   * Spok
+
+\* Der Weltraum unendliche Weiten\* 
